@@ -1,2 +1,2 @@
 # JavaCalc
-A basic calculator in Java
+A basic calculator written in Java.
